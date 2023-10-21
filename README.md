@@ -50,3 +50,13 @@ For questions or feedback, please contact [Farrukh Aslam](mailto:farrukha303@gma
 
 Happy data engineering!
 
+## Usefull Commands
+
+- sudo mkdir -p /home/project/airflow/dags/finalassignment/staging
+- cd /home/project/airflow/dags/finalassignment
+  
+- cp .py $AIRFLOW_HOME/dags
+- airflow dags list
+- airflow dags list|grep "my-first-dag"
+- airflow tasks list my-first-dag
+
