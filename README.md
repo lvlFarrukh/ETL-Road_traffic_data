@@ -1,4 +1,4 @@
-![image](https://github.com/lvlFarrukh/ETL-Road_traffic_data/assets/47663235/6839fdc0-4041-4300-9883-106f180908f5)# ETL Project: National Highway Traffic Data Analysis
+# ETL Project: National Highway Traffic Data Analysis
 
 ## Overview
 
