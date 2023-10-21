@@ -1,4 +1,4 @@
-# ETL Project: National Highway Traffic Data Analysis
+![image](https://github.com/lvlFarrukh/ETL-Road_traffic_data/assets/47663235/6839fdc0-4041-4300-9883-106f180908f5)# ETL Project: National Highway Traffic Data Analysis
 
 ## Overview
 
@@ -59,4 +59,8 @@ Happy data engineering!
 - airflow dags list
 - airflow dags list|grep "my-first-dag"
 - airflow tasks list my-first-dag
+
+- bin/zookeeper-server-start.sh config/zookeeper.properties  ( run zookeeper server )
+- bin/kafka-server-start.sh config/server.properties  ( run kafka broker server )
+- bin/kafka-topics.sh --create --topic news --bootstrap-server localhost:9092 ( create topic )
 
